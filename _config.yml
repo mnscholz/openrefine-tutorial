@@ -1,2 +1,8 @@
 title: Einführung in OpenRefine
-theme: tactile
+theme: minima
+
+minima:
+  nav_pages:
+    - README.md
+    - anwendungsgebiete.md
+    - betrieb.md
