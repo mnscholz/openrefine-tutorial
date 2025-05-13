@@ -2,8 +2,11 @@
 
 ***powerful tool for working with messy data***
 
-https://openrefine.org/
+[https://openrefine.org/](https://openrefine.org/)
 
+
+1. [Anwendungsgebiete, Stärken, Alternativen](anwendungsgebiete)
+1. [Installation und Betrieb](betrieb)
 
 ## Tutorials und weiterführendes Material
 
@@ -14,7 +17,3 @@ https://openrefine.org/
 - [The Carpentries](https://carpentries.org/lessons/)
   - [Library Carpentry: OpenRefine](https://librarycarpentry.github.io/lc-open-refine/)
   - [OpenRefine for Social Science Data ](https://datacarpentry.github.io/openrefine-socialsci/)
-
-
-1. [Anwendungsgebiete, Stärken, Alternativen](anwendungsgebiete)
-1. [Installation und Betrieb](betrieb)
