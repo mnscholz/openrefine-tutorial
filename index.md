@@ -7,6 +7,7 @@
 
 ## Tutorials und weiterführendes Material
 
+- [Skript zu dieser Einführung](skript_goethes_korrespondenz)
 - [OpenRefine-Website](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources#german) (en de)
 - Programming Historian:
   - [Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine)
