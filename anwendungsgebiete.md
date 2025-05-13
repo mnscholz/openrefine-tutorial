@@ -37,3 +37,7 @@
 - OpenRefine und Wikidata sind eng verzahnt
   - Wikidata ist stark in OpenRefine integriert (Reconcile, Export)
 
+---
+
+1. [Start](README)
+1. [Installation und Betrieb](betrieb)
