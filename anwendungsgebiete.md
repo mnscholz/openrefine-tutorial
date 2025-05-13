@@ -1,8 +1,8 @@
 ## Anwendungsgebiete
 
-- strukturieren von semistrukturierten Daten
+- Strukturieren von semistrukturierten Daten
   - => In Tabellenform bringen
-- bereinigen von strukturierten Daten
+- Bereinigen von strukturierten Daten
   - => Korrigieren, Normieren 
 - Analyse eines Datenbestandes
   - => Wertbereiche, Auswahl, Teilbestand
