@@ -1,8 +1,2 @@
 title: Einführung in OpenRefine
-theme: minima
-
-minima:
-  nav_pages:
-    - README.md
-    - anwendungsgebiete.md
-    - betrieb.md
+theme: jekyll-theme-tactile
