@@ -39,5 +39,5 @@
 
 ---
 
-1. [Start](..)
+1. [Start](index)
 1. [Installation und Betrieb](betrieb)
