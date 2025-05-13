@@ -1,6 +1,6 @@
-# Einführung in OpenRefine
+# [Einführung in OpenRefine](https://mnscholz.github.io/openrefine-tutorial/)
 
-***powerful tool for working with messy data***
+***"powerful tool for working with messy data"***
 
 [https://openrefine.org/](https://openrefine.org/)
 
