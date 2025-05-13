@@ -39,5 +39,5 @@
 
 ---
 
-1. [Start](README)
+1. [Start](..)
 1. [Installation und Betrieb](betrieb)
