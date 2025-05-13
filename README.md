@@ -5,9 +5,6 @@
 [https://openrefine.org/](https://openrefine.org/)
 
 
-1. [Anwendungsgebiete, Stärken, Alternativen](anwendungsgebiete)
-1. [Installation und Betrieb](betrieb)
-
 ## Tutorials und weiterführendes Material
 
 - [OpenRefine-Website](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources#german) (en de)
@@ -17,3 +14,8 @@
 - [The Carpentries](https://carpentries.org/lessons/)
   - [Library Carpentry: OpenRefine](https://librarycarpentry.github.io/lc-open-refine/)
   - [OpenRefine for Social Science Data ](https://datacarpentry.github.io/openrefine-socialsci/)
+
+---
+
+1. [Anwendungsgebiete, Stärken, Alternativen](anwendungsgebiete)
+1. [Installation und Betrieb](betrieb)
